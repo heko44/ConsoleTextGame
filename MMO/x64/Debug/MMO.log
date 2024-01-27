@@ -1,0 +1,27 @@
+﻿  Armor.cpp
+  Consumable.cpp
+  Entity.cpp
+  GameScripts.cpp
+E:\MMO\MMO\GameScripts.cpp(501,45): warning C4244: '-=': conversion from 'double' to 'int', possible loss of data
+E:\MMO\MMO\GameScripts.cpp(511,45): warning C4244: '-=': conversion from 'double' to 'int', possible loss of data
+  Goblin.cpp
+E:\MMO\MMO\Goblin.cpp(33,55): warning C4267: 'argument': conversion from 'size_t' to '_Ty', possible loss of data
+          with
+          [
+              _Ty=int
+          ]
+  Interface.cpp
+  Inventory.cpp
+E:\MMO\MMO\Inventory.cpp(146,19): warning C4267: 'return': conversion from 'size_t' to 'const int', possible loss of data
+  Item.cpp
+  ItemList.cpp
+  main.cpp
+  Map.cpp
+  Menu.cpp
+  Money.cpp
+  Player.cpp
+  Tools.cpp
+  Weapon.cpp
+  Generating Code...
+E:\MMO\MMO\ItemList.cpp(57): warning C4715: 'tier1_item_by_id': not all control paths return a value
+  MMO.vcxproj -> E:\MMO\x64\Debug\MMO.exe
